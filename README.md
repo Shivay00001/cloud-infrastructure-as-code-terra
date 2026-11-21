@@ -1,5 +1,7 @@
 # Cloud Infrastructure as Code (Terraform)
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 [![Terraform](https://img.shields.io/badge/Terraform-1.6-blueviolet.svg)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange.svg)](https://aws.amazon.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
